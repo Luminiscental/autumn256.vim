@@ -3,6 +3,11 @@
 A 256bit colorscheme for vim or neovim, including customization for
 [lightline](https://github.com/itchyny/lightline.vim) or [lualine](https://github.com/nvim-lualine/lualine.nvim).
 
+### Contents
+
+* #### [Installation](#Installation)
+* #### [Screenshots](#Screenshots)
+
 ## Installation
 
 Install the colorscheme as a plugin, e.g. using [vim-plug](https://github.com/junegunn/vim-plug):
