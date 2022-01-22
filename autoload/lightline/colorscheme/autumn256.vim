@@ -11,7 +11,7 @@ let s:base3 = [ '#e8e8d3', 253 ]
 let s:normal = [ '#798d50', 103 ]
 let s:insert = [ '#babd4a', 107 ]
 let s:replace = [ '#cf6a4c', 167 ]
-let s:visual = ['#f8786b', 217]
+let s:visual = ['#ff6f6f', 217]
 let s:error = [ '#8b4147', 167 ]
 let s:warning = [ '#755b24', 215 ]
 
