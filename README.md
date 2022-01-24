@@ -5,9 +5,10 @@ A 256bit colorscheme for vim or neovim, including customization for
 
 ### Contents
 
-* #### [Installation](#Installation)
-* #### [Screenshots](#Screenshots)
+* #### [Installation](#installation_section)
+* #### [Screenshots](#screenshots_section)
 
+<a name="installation_section"></a>
 ## Installation
 
 Install the colorscheme as a plugin, e.g. using [vim-plug](https://github.com/junegunn/vim-plug):
@@ -47,6 +48,7 @@ require'lualine'.setup {
 }
 ```
 
+<a name="screenshots_section"></a>
 ## Screenshots
 
 ![Example screenshot (viml)](https://github.com/Luminiscental/autumn256.vim/raw/main/screenshots/vim.png?raw=true)
