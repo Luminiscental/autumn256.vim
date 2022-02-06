@@ -358,7 +358,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 
     " -- nvim-tree
     call <SID>X("NvimTreeFolderIcon", "c9a554", "", "", "")
-    call <SID>X("NvimTreeIndentMarker", "303030", "", "", "")
+    call <SID>X("NvimTreeIndentMarker", "666666", "", "", "")
 
     " -- nvim-treesitter
     call <SID>X("TSError", "", "", "undercurl", "662222")
