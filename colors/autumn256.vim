@@ -356,6 +356,10 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("DiagnosticSignHint", "", "", "", "")
     call <SID>X("DiagnosticUnderlineHint", "", "", "underline", "ddc064")
 
+    " -- nvim-tree
+    call <SID>X("NvimTreeFolderIcon", "c9a554", "", "", "")
+    call <SID>X("NvimTreeIndentMarker", "303030", "", "", "")
+
     " -- nvim-treesitter
     call <SID>X("TSError", "", "", "undercurl", "662222")
     call <SID>X("TSNote", "c6e650", "", "bold", "")
