@@ -278,7 +278,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("Namespace", "cd6a47", "", "", "")
     call <SID>X("EnumConstant", "af545b", "", "", "")
     call <SID>X("Sneak", "", "666666", "", "")
-    call <SID>X("Conceal", "bad46b", "", "", "")
+    call <SID>X("Conceal", "bad46b", "none", "", "")
     call <SID>X("MatchParen", "333333", "666666", "", "")
     call <SID>X("Ignore", "666666", "", "", "")
     call <SID>X("Error", "ead49b", "8b4147", "", "")
