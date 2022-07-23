@@ -297,8 +297,8 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("LspCxxHlSymMacro", "af545b", "", "", "")
 
     " -- TODO and NOTE groups
-    call <SID>X("Todo", "ffcc44", "", "bold", "")
-    call <SID>X("Note", "c6e650", "", "bold", "")
+    call <SID>X("Todo", "ffcc44", "none", "bold", "")
+    call <SID>X("Note", "c6e650", "none", "bold", "")
 
     " -- clojure.vim
     call <SID>X("clojureSpecial", "564438", "", "", "")
