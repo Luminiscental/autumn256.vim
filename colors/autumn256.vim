@@ -330,6 +330,11 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("GitSignsChange", "d9b554", "", "", "")
     call <SID>X("GitSignsDelete", "8b4147", "", "", "")
 
+    " vim-illuminate
+    call <SID>X("IlluminatedWordRead", "", "685742", "", "")
+    call <SID>X("IlluminatedWordText", "", "685742", "", "")
+    call <SID>X("IlluminatedWordWrite", "", "685742", "", "")
+
     " -- nvim-lsp
     call <SID>X("LspReferenceRead", "", "685742", "", "")
     call <SID>X("LspReferenceText", "", "685742", "", "")
@@ -337,8 +342,6 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
 
     call <SID>X("LspCodeLens", "666666", "", "italic", "")
     call <SID>X("LspCodeLensSeparator", "444444", "", "italic", "")
-    call <SID>X("LspReferenceText", "", "685742", "", "")
-    call <SID>X("LspReferenceWrite", "", "685742", "", "")
 
     call <SID>X("DiagnosticError", "8b4147", "", "", "")
     call <SID>X("DiagnosticSignError", "", "8b4147", "", "")
