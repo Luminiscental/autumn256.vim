@@ -226,7 +226,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
         endif
     endfun
 
-    call <SID>X("Normal", "ead49b", "", "none", "")
+    call <SID>X("Normal", "ead49b", "none", "none", "")
     call <SID>X("Cursor", "708090", "f0e68c", "", "")
     "CursorIM
     "ErrorMsg
