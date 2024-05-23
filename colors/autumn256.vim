@@ -273,6 +273,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("PreProc", "936d43", "", "", "")
     call <SID>X("Type", "9d6a47", "", "", "")
     call <SID>X("Special", "ead49b", "", "", "")
+    call <SID>X("Operator", "ead49b", "", "", "")
     call <SID>X("Delimiter", "ead49b", "", "", "")
     call <SID>X("Member", "bad46b", "", "", "")
     call <SID>X("Variable", "ead49b", "", "", "")
