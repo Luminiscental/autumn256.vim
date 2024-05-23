@@ -250,6 +250,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("StatusLineNC", "c2bfa5", "7f7f7f", "reverse", "")
     call <SID>X("Title", "cd5c5c", "", "", "")
     call <SID>X("Visual", "d3d3d3", "3e3e3e", "reverse", "")
+    call <SID>X("QuickFixLine", "c9a554", "", "", "")
     "VisualNOS
     call <SID>X("WarningMsg", "1e272b", "755b24", "", "")
     call <SID>X("ErrorMsg", "1e272b", "8b4147", "", "")
