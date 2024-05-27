@@ -293,6 +293,9 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     call <SID>X("pythonImport", "564438", "", "", "")
     call <SID>X("pythonBuiltinType", "bad46b", "", "", "")
 
+    " -- vimtex
+    call <SID>X("texMathOper", "9d6a47", "", "", "")
+
     " -- LspCxx
     call <SID>X("LspCxxHlSymNamespace", "cd6a47", "", "", "")
     call <SID>X("LspCxxHlSymField", "a5b565", "", "", "")
